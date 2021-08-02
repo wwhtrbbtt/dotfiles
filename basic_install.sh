@@ -38,6 +38,10 @@ brew install --cask vscodium
 echo "[+] Installing spotify"
 brew install --cask spotify
 
+# installing discord
+echo "[+] Installing discord"
+brew install --cask discord
+
 # installing neofetch (very important)
 echo "[+] Installing neofetch"
 brew install neofetch 
