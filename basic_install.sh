@@ -31,8 +31,8 @@ echo "[+] Installing firefox"
 brew install firefox 
 
 # installing vscodiuem (VSCode without spyware)
-echo "[+] Installing vscodium"
-brew install --cask vscodium
+# echo "[+] Installing vscodium"
+# brew install --cask vscodium
 
 # installing spotify
 echo "[+] Installing spotify"
